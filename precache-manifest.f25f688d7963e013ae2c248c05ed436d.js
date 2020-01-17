@@ -4,7 +4,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/eth-dev-tools/css/about.6d889ade.css"
   },
   {
-    "revision": "8eee537a82b8b776bcea",
+    "revision": "3eef87c038d0709530f3",
     "url": "/eth-dev-tools/css/app.55e334d9.css"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/eth-dev-tools/css/chunk-vendors.da7016d9.css"
   },
   {
-    "revision": "1c867052c9f708e0d499f060fea3af35",
+    "revision": "0a4e3bdbabe105a0669611b028e82f8e",
     "url": "/eth-dev-tools/index.html"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/eth-dev-tools/js/about.2ba47cec.js"
   },
   {
-    "revision": "8eee537a82b8b776bcea",
-    "url": "/eth-dev-tools/js/app.be0af6cd.js"
+    "revision": "3eef87c038d0709530f3",
+    "url": "/eth-dev-tools/js/app.ca94cdb8.js"
   },
   {
     "revision": "ef9c8c749cf8a0979519",
